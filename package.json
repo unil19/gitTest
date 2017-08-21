@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/unil19/gitTest/issues"
   },
-  "homepage": "https://github.com/unil19/gitTest#readme"
+  "homepage": "https://github.com/unil19/gitTest#readme",
+  "devDependencies": {
+    "axios": "^0.16.2"
+  }
 }
