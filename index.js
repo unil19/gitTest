@@ -19,3 +19,4 @@ axios.post('http://localhost:9999/query', {
 	.catch(function (error) {
 		console.log(error);
 	});
+console.log("new line"); 
