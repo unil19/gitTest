@@ -1,0 +1,5 @@
+feat|fix|docs|style|refactor|test|chore(<scope>): <subject> (#TASK_NAME)
+<BLANK LINE>
+<body>
+<BLANK LINE>
+Closes|Fixes|Revert:[#TASK_NAME](http://)
